@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+Disallow: /cgi-bin/
+
+Sitemap: https://bethelnet.io/sitemap.xml
+
+User-agent: AhrefsSiteAudit
+Allow: /
+User-agent: Yandex
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
